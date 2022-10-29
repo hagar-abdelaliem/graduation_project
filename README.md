@@ -1,6 +1,6 @@
 # Digital System For Botany Slides
 ## who are we
-  - we are hard worker students
+  - We are three students in the Faculty of Science, Ain Shams University, lovers of computer science, and our goal is to know something about everything and to know everything about something.
 ## Team
 ```
   - Hagar Abdelalim [HA]
@@ -25,7 +25,7 @@
         - excellent in Database
         - have the ability to learn any new skills
   - Requirments
-    - [x] We will meet AS on Tuseday, 16/10/2022 to know all details about the project
+    - [x] We will meet AS on Tuseday, 18/10/2022 to know all details about the project
 ## 16/10/2022
   - we created a whatsApp group and added DA and AS. <br/>
   - We made an appointment On Tuesday , 18/10/2022 at ten o'clock in front of Dr. Al-Safa's office. in the botany department to clarify the details more.
