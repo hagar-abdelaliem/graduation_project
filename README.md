@@ -1,6 +1,7 @@
 # Digital System For Botany Slides
 ## who are we
-  - We are three students in the Faculty of Science, Ain Shams University, lovers of computer science, and our goal is to know something about everything and to know everything about something.
+  - We are three students in the Faculty of Science, Ain Shams University who are computer science lovers, <br/> 
+    and our goal is to know something about everything and to know everything about something. This is our graduation project and we chose this project for the             students and doctors of the Botany Department to benefit from in the hope that it will help them in their studies and make it easier. And we ask God for success.
 ## Team
 ```
   - Hagar Abdelalim [HA]
