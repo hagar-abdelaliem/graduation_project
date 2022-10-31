@@ -27,11 +27,11 @@
         - have the ability to learn any new skills
   - Requirments
     - [x] We will meet AS on Tuseday, 18/10/2022 to know all details about the project
-## 16/10/2022
+## 18/10/2022
   - we created a whatsApp group and added DA and AS. <br/>
   - We made an appointment On Tuesday , 18/10/2022 at ten o'clock in front of Dr. Al-Safa's office. in the botany department to clarify the details more.
-## 18/10/2022
+## 20/10/2022
   - It was our first job as a database analysts, we made requirement gathering. <br />
   - We have analyzed and organized the requirements and interpreted statistical information based on the data.
-## 20/10/2022
+## 22/10/2022
   - we started our second jop as a database architect, we started the design phase of database.
