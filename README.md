@@ -42,29 +42,29 @@
       - As students it is very hard to understand the total system.<br/>
       - this database will take a lot of time to made this.<br/>
   - Tasks
-      - [x] we will make database analysts, we made requirement gathering. <br />
-      - [x] We will analyze and organize the requirements and interpreted statistical information based on the data.<br/>
+      - [x] we will make database analysts, we made requirement gathering. 
+      - [x] We will analyze and organize the requirements and interpreted statistical information based on the data.
 ## 20/10/2022
   - Participation<br/>
      MW, RH , HA
   - Notes
-      - we discussed about the database and how each one us understood the data and requirments of project.<br/>
-      - the database is hard the be undertood from the first time.<br/>
+      - we discussed about the database and how each one us understood the data and requirments of project.
+      - the database is hard the be undertood from the first time.
       - we still need a lot of other details and data to understand the requirments.<br/>
   - Tasks
-      - [x] we will start our jop as a database architect, we start the design phase of database. <br/> 
-      - [x] each one of us will design the database and we will meet at 24/10/2022 to disccus our designs.<br/> 
+      - [x] we will start our jop as a database architect, we start the design phase of database. 
+      - [x] each one of us will design the database and we will meet at 24/10/2022 to disccus our designs.
 ## 24/10/2022
   - Participation<br/>
      RH , MW, HA
   - Notes
-      - ![fdesign2](https://user-images.githubusercontent.com/80859649/199831893-ae40d81c-c088-41d8-b8a9-06b80e2e75cf.jpg)<br/>
-      - ![fdesign1](https://user-images.githubusercontent.com/80859649/199831914-d7915b36-67d4-4c41-b0c9-eebbe1240291.jpg)<br/>
-      - ![fdesign3](https://user-images.githubusercontent.com/80859649/199832079-b06447fd-0399-418c-ab01-094bf13b6aac.jpg)<br/>
+      - ![fdesign2](https://user-images.githubusercontent.com/80859649/199831893-ae40d81c-c088-41d8-b8a9-06b80e2e75cf.jpg)
+      - ![fdesign1](https://user-images.githubusercontent.com/80859649/199831914-d7915b36-67d4-4c41-b0c9-eebbe1240291.jpg)
+      - ![fdesign3](https://user-images.githubusercontent.com/80859649/199832079-b06447fd-0399-418c-ab01-094bf13b6aac.jpg)
       - we made this database but it have some problem
-          - when we made this design we found that there is a many to many relationship between weak entity and strong entity.<br/>
-          - the plants divides into 3 catogary , in each catogary there exist different groups of plants , we thought that the number of plant is unique but in each group she start the number of plants from 1 again.<br/>
-          - we have no data and we asked AS to send us the data.<br/>
+          - when we made this design we found that there is a many to many relationship between weak entity and strong entity.
+          - the plants divides into 3 catogary , in each catogary there exist different groups of plants , we thought that the number of plant is unique but in each group she start the number of plants from 1 again.
+          - we have no data and we asked AS to send us the data.
           - we don't know if the person can borrow more than one slide or not
   - Tasks
       - [x] each one of us will search about solution for this prolems.<br/>
@@ -74,12 +74,14 @@
   - Participation<br/>
      RH , HA, MW , AS
   - Notes
-      - AS sent a excal sheet which have some data and we make a design before we went to AS
+      - AS sent a excal sheet which have some data and we make a design before we went to AS<br/>
       - Design
           - ![hager design](https://user-images.githubusercontent.com/80859649/199843193-2f5b18aa-0544-42c4-9492-7e4cb828003f.jpg)
       - Problems
-          - 
-
+          - what is the meaning of 1.1
+          - how there exist 2 boxes with number 2.1
+       - Discussion
+          - we went to AS to ask her about this problems
           
 
   
