@@ -64,9 +64,12 @@
       - we made this database but it have some problem
           - when we made this design we found that there is a many to many relationship between weak entity and strong entity.<br/>
           - the plants divides into 3 catogary , in each catogary there exist different groups of plants , we thought that the number of plant is unique but in each group she start the number of plants from 1 again.<br/>
-          - we have no data and we asked AS to send us the data
+          - we have no data and we asked AS to send us the data.<br/>
+          - we don't know if the person can borrow more than one slide or not
   - Tasks
-      - each one of us will search about solution for this prolems.<br/>
+      - [x] each one of us will search about solution for this prolems.<br/>
+      - [x] we ask AS if the person can borrow more than one slide or not
+      - [x] we will go to botany deprment again to see the slides and boxes angain because we data still not clear to us 
 ## 27/10/2022
 ## 29/10/2022
 ## 2/11/2022
