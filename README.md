@@ -97,13 +97,13 @@
               - ![data6](https://user-images.githubusercontent.com/80859649/199845503-deeda882-97ac-4ff2-aaf6-faccde1ed2f3.jpg)
               - ![data7](https://user-images.githubusercontent.com/80859649/199845524-ba0c1a04-d6b1-43bf-88c5-ce090ec580fb.jpg)
               - ![data8](https://user-images.githubusercontent.com/80859649/199845546-628a9fc0-3965-472c-ba35-40a5a90101da.jpg)
-              - [CamScanner 10-27-2022 13.47 (1).pdf](https://github.com/hagar-abdelaliem/graduation_project/files/9933404/CamScanner.10-27-2022.13.47.1.pdf)
+              - [data.pdf](https://github.com/hagar-abdelaliem/graduation_project/files/9933441/data.pdf)
       - Tasks
           - [x] make new database 
           - [x] make meeting with DA on 29/10/2022 in his office , to discuss database desgin 
           - [x] determine what is required in project
 ## 29/10/2022
-      - Participations<br/>
-          DA, MW , HA ,RH
+      - Participations
+         DA, MW , HA ,RH
       - Notes
 ## 2/11/2022
