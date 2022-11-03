@@ -103,7 +103,7 @@
           - [x] make meeting with DA on 29/10/2022 in his office , to discuss database desgin 
           - [x] determine what is required in project
 ## 29/10/2022
-  - Participations
+  - Participations <br/>
          DA, MW , HA ,RH
   - Notes
 ## 2/11/2022
