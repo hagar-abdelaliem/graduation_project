@@ -15,7 +15,7 @@
 | ------------- | ------------- | ------------- |  ------------- |
 |The department of Botany provides a variety of plant-related slides. These slides are available for loan, however it is difficult to keep track of who has borrowed what and when it is due back|Develop a system for storing and displaying data on plant slides available|Develop an Android/web-based application that allows the user (student, admin, faculty member) to view the slides, search for specific factions, borrow permissible slides (depending on the user type) to study on within a specific time period, and manage slides.|DB , Mobile|
 ## 15/10/2022  
-  - Participation<br/>
+  - Participations<br/>
      HA, RH, MW and DA
   - Notes
     - DA explain some project details.<br/>
@@ -28,8 +28,8 @@
   - Tasks
     - [x] We will meet AS on Tuseday, 18/10/2022 to know all details about the project
 ## 18/10/2022
-  - Participation<br/>
-     MW, HA, RH, AS and DA
+  - Participations<br/>
+       MW, HA, RH, AS and DA
   - what we did
       - we go to AS in her office <br/>
       - she explained some details about the system which she did and currently used in botany<br/>
@@ -45,8 +45,8 @@
       - [x] we will make database analysts, we made requirement gathering. 
       - [x] We will analyze and organize the requirements and interpreted statistical information based on the data.
 ## 20/10/2022
-  - Participation<br/>
-     MW, RH , HA
+  - Participations<br/>
+       MW, RH , HA
   - Notes
       - we discussed about the database and how each one us understood the data and requirments of project.
       - the database is hard the be undertood from the first time.
@@ -55,8 +55,8 @@
       - [x] we will start our jop as a database architect, we start the design phase of database. 
       - [x] each one of us will design the database and we will meet at 24/10/2022 to disccus our designs.
 ## 24/10/2022
-  - Participation<br/>
-     RH , MW, HA
+  - Participations<br/>
+       RH , MW, HA
   - Notes
       - ![fdesign2](https://user-images.githubusercontent.com/80859649/199831893-ae40d81c-c088-41d8-b8a9-06b80e2e75cf.jpg)
       - ![fdesign1](https://user-images.githubusercontent.com/80859649/199831914-d7915b36-67d4-4c41-b0c9-eebbe1240291.jpg)
@@ -71,8 +71,8 @@
       - [x] we ask AS if the person can borrow more than one slide or not
       - [x] we will go to botany deprment again to see the slides and boxes angain because we data still not clear to us 
 ## 27/10/2022
-  - Participation<br/>
-     RH , HA, MW , AS
+  - Participations<br/>
+      RH , HA, MW , AS
   - Notes
       - AS sent a excal sheet which have some data and we make a design before we went to AS, but this is a very little part of data , and not the same data which is treat with in actual.<br/>
       - AS not send us any another data , and this is a big problem for us because every time we decide to make a design we have a big conflict
@@ -103,7 +103,7 @@
           - [x] make meeting with DA on 29/10/2022 in his office , to discuss database desgin 
           - [x] determine what is required in project
 ## 29/10/2022
-      - Participation<br/>
+      - Participations<br/>
           DA, MW , HA ,RH
       - Notes
 ## 2/11/2022
