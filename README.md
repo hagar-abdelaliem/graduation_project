@@ -71,5 +71,17 @@
       - [x] we ask AS if the person can borrow more than one slide or not
       - [x] we will go to botany deprment again to see the slides and boxes angain because we data still not clear to us 
 ## 27/10/2022
+  - Participation<br/>
+     RH , HA, MW , AS
+  - Notes
+      - AS sent a excal sheet which have some data and we make a design before we went to AS
+      - Design
+          - ![hager design](https://user-images.githubusercontent.com/80859649/199843193-2f5b18aa-0544-42c4-9492-7e4cb828003f.jpg)
+      - Problems
+          - 
+
+          
+
+  
 ## 29/10/2022
 ## 2/11/2022
