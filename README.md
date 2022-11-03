@@ -25,13 +25,48 @@
         - hard workers.<br/>
         - excellent in Database
         - have the ability to learn any new skills
-  - Requirments
+  - Tasks
     - [x] We will meet AS on Tuseday, 18/10/2022 to know all details about the project
 ## 18/10/2022
-  - we created a whatsApp group and added DA and AS. <br/>
-  - We made an appointment On Tuesday , 18/10/2022 at ten o'clock in front of Dr. Al-Safa's office. in the botany department to clarify the details more.
+  - Participation<br/>
+     MW, HA, RH, AS and DA
+  - what we did
+      - we go to AS in her office <br/>
+      - she explained some details about the system which she did and currently used in botany<br/>
+      - she told us that she built a total system for all plants slides and she start from scratch<br/>
+      - she explained how she did this system and how she organized the slides <br/>
+      - she brought some hard copy of pdfs and explained the slides dividsion<br/>
+      - then we went to botany department and we saw all slides and boxes and how she orgainzed them in actual life  <br/> 
+      - we created a whatsApp group and added DA and AS. <br/>
+  - Notes
+      - As students it is very hard to understand the total system.<br/>
+      - this database will take a lot of time to made this.<br/>
+  - Tasks
+      - [x] we will make database analysts, we made requirement gathering. <br />
+      - [x] We will analyze and organize the requirements and interpreted statistical information based on the data.<br/>
 ## 20/10/2022
-  - It was our first job as a database analysts, we made requirement gathering. <br />
-  - We have analyzed and organized the requirements and interpreted statistical information based on the data.
-## 22/10/2022
-  - we started our second jop as a database architect, we started the design phase of database.
+  - Participation<br/>
+     MW, RH , HA
+  - Notes
+      - we discussed about the database and how each one us understood the data and requirments of project.<br/>
+      - the database is hard the be undertood from the first time.<br/>
+      - we still need a lot of other details and data to understand the requirments.<br/>
+  - Tasks
+      - [x] we will start our jop as a database architect, we start the design phase of database. <br/> 
+      - [x] each one of us will design the database and we will meet at 24/10/2022 to disccus our designs.<br/> 
+## 24/10/2022
+  - Participation<br/>
+     RH , MW, HA
+  - Notes
+      - ![fdesign2](https://user-images.githubusercontent.com/80859649/199831893-ae40d81c-c088-41d8-b8a9-06b80e2e75cf.jpg)<br/>
+      - ![fdesign1](https://user-images.githubusercontent.com/80859649/199831914-d7915b36-67d4-4c41-b0c9-eebbe1240291.jpg)<br/>
+      - ![fdesign3](https://user-images.githubusercontent.com/80859649/199832079-b06447fd-0399-418c-ab01-094bf13b6aac.jpg)<br/>
+      - we made this database but it have some problem
+          - when we made this design we found that there is a many to many relationship between weak entity and strong entity.<br/>
+          - the plants divides into 3 catogary , in each catogary there exist different groups of plants , we thought that the number of plant is unique but in each group she start the number of plants from 1 again.<br/>
+          - we have no data and we asked AS to send us the data
+  - Tasks
+      - each one of us will search about solution for this prolems.<br/>
+## 27/10/2022
+## 29/10/2022
+## 2/11/2022
