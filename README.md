@@ -126,8 +126,8 @@
      - RH also discovered another problem with the count of plants, which we previously made it as an attribute of the plant table, but each plant has different              sectors with different counts. Therefore, we will not be able to determine the count of all the sector for each plant separately because the sectors for each          plant are shown in a different table.
            - the solution was to add the count attribute to section type table.
               -![image](https://user-images.githubusercontent.com/75702509/200062653-cd41e5bc-7a35-4ce2-8e6e-e8e4f1bcd93a.png).
-  - Finally, this is what we reached after 6 hours of modifications, discussions and suggestions, and we are really proud of what we have achieved. This is what we got     after working hard for more than two weeks,
-        - ![image](https://user-images.githubusercontent.com/75702509/200064585-a26afd6a-6e1a-4a56-8157-d3d75ff635a7.png).
+  - Finally, this is what we reached after 6 hours of modifications, discussions and suggestions, and we are really proud of what we have achieved. This is what we got     after working hard for more than two weeks.
+      - ![image](https://user-images.githubusercontent.com/75702509/200064585-a26afd6a-6e1a-4a56-8157-d3d75ff635a7.png).
   - Tasks
       - [x] meeting with Dr. DA on 5/11/2022 to present the final database design for the last time before moving on to the next step in our project.
 
