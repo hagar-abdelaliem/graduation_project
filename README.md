@@ -107,7 +107,7 @@
       DA, MW , HA ,RH
   - What we did
       - we met Dr. DA in his office to discuss what we have come to in the design of the Database and the following picture contains what we have come to before               meeting him. 
-          - ![image](https://user-images.githubusercontent.com/75702509/199970581-8f74c8a6-e9a5-4233-9db6-cba9c32392af.png)
+          - ![image](https://user-images.githubusercontent.com/75702509/199990844-7c0bb587-0cae-468e-86d6-ff775e8e0067.png).
       - Dr. DA informed us of some modifications to our design to make it better and easier to obtain information (For this, thank you, Dr.DA).
   - Notes
       - Despite the many modifications that occurred to the design and every time a defect appeared and we fixed it, we were never disappointed and did not lose our           enthusiasm, but we were happier because we learned a lot from these mistakes. We know very well that as long as there are mistakes, this means that we learn           more.
@@ -121,5 +121,5 @@
   - Problems
       - MW discovered a problem in the table of cells for each plant and found that if we only made the id of the plant and its cells to be the distinctive key                 of this table, this key could be repeated with another plant classification.
           - And the solution was that he suggested that we add with them the classification color.
-          - ![image](https://user-images.githubusercontent.com/75702509/199990274-6dbb3388-5955-4728-9cc1-4273d022fdf8.png).
+          - ![image](https://user-images.githubusercontent.com/75702509/199990702-034b6147-cbac-42f7-ae47-4712c91ec994.png).
 
