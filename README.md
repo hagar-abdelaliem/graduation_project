@@ -86,8 +86,8 @@
       - Discussion
           - we went to AS to ask her about this problems
           - we went to Botany deparment and saw all slides again
-          - there is a big problem such that we found that the number of boxes is not the same in all categores, which is mean that all category, and we must make a nwe design for database.
-          - we take a prictures for slides and boxes
+          - there is a big problem such that we found that the number of boxes is not the same in all categores, which is mean that all category, and we must make a new design for database.
+          - we take a Pictures for slides and boxes
           - Pictures
               - ![data1](https://user-images.githubusercontent.com/80859649/199845366-6cd15cb7-0b0f-4ff8-a152-9566f518673b.jpg)
               - ![data2](https://user-images.githubusercontent.com/80859649/199845394-4bba8686-9e0f-4bd1-a008-dc18b96194f2.jpg)
@@ -104,6 +104,22 @@
           - [x] determine what is required in project
 ## 29/10/2022
   - Participations <br/>
-         DA, MW , HA ,RH
+      DA, MW , HA ,RH
+  - What we did
+      - we met Dr. DA in his office to discuss what we have come to in the design of the Database and the following picture contains what we have come to before               meeting him. 
+          - ![image](https://user-images.githubusercontent.com/75702509/199970581-8f74c8a6-e9a5-4233-9db6-cba9c32392af.png)
+      - Dr. DA informed us of some modifications to our design to make it better and easier to obtain information (For this, thank you, Dr.DA).
   - Notes
+      - Despite the many modifications that occurred to the design and every time a defect appeared and we fixed it, we were never disappointed and did not lose our           enthusiasm, but we were happier because we learned a lot from these mistakes. We know very well that as long as there are mistakes, this means that we learn           more.
+  - Tasks
+      - [x] hold an online meeting to finalize the database design on 2/11/2022.
 ## 2/11/2022
+  - Participations <br/>
+      MW , HA ,RH
+  - What we did
+      - We held an online meeting to finalize the database design (Conceptual Schema), It was the best meeting we've ever had, it was full of valuable information and         a broad understanding of the database.
+  - Problems
+      - MW discovered a problem in the table of cells for each plant and found that if we only made the id of the plant and its cells to be the distinctive key                 of this table, this key could be repeated with another plant classification.
+          - And the solution was that he suggested that we add with them the classification color.
+          - ![image](https://user-images.githubusercontent.com/75702509/199990274-6dbb3388-5955-4728-9cc1-4273d022fdf8.png).
+
