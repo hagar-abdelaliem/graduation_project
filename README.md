@@ -130,5 +130,27 @@
       - ![image](https://user-images.githubusercontent.com/75702509/200064585-a26afd6a-6e1a-4a56-8157-d3d75ff635a7.png).
   - Tasks
       - [x] meeting with Dr. DA on 5/11/2022 to present the final database design for the last time before moving on to the next step in our project.
+## 5/11/2022
+## 24/11/2022
+  - Tasks
+      - [x] Mahmoud will Revision all information about database.
+      - [x] Mahmoud will make relational model ^ make design in workbanch.
+      - [x]rehab and hagar will make authentication in firebase
+      - [x] Mahmoud will write the documentation of workbanch
+## 24/11/2022
+  - Participations <br/>
+      Mahmoud waheed , Hagar abdelaliem,Rehab hamdy
+  - What we did
+      - we make meeting on microsoft time and we spend 5 hours on making relational model and making database in workbanch
+      - we find some problems in database 
+          - we move attribute count in slide
+          - it was very hard to make the database in workbanch
+      - ![WhatsApp Image 2022-11-27 at 6 59 35 PM](https://user-images.githubusercontent.com/116230767/205091126-8397fb99-da0b-422d-8bd6-ae9503cb4378.jpeg)
+      - image of workbanch
+  - tasks
+      -[x] we will me tommor to update the version of dart and flutter
+      -[x] hagar and rehab will make the documentation of flutter and dart
+## 25/11/2022
+      
 
 
