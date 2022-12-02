@@ -168,6 +168,7 @@
           - we move attribute count in slide
           - it was very hard to make the database in workbanch
       - image of workbanch   
+      - image of relational model.
           - ![WhatsApp Image 2022-11-27 at 6 59 35 PM](https://user-images.githubusercontent.com/116230767/205091126-8397fb99-da0b-422d-8bd6-ae9503cb4378.jpeg)
   - tasks
       - [x] tomorrow we will make meeting to unit versions of dart and flutter.
